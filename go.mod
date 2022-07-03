@@ -1,4 +1,4 @@
-module patriotsfs
+module github.com/Gerardo115pp/patriotsfs
 
 go 1.16
 
